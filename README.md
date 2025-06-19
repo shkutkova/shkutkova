@@ -12,4 +12,5 @@ Latest Y
 ![SQL](https://img.shields.io/badge/-SQL-18191a?style=for-the-badge&logo=)
 ![Figma](https://img.shields.io/badge/-figma-18191a?style=for-the-badge&logo=figma)
 
-Follow Me
+### Follow Me
+[![VK](https://img.shields.io/badge/-vk-18191a?style=for-the-badge&logo=vk&logoColor=8ab4f8)](https://vk.com/k.shkutkova)
