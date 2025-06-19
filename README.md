@@ -6,6 +6,10 @@ I'm passionate about improving product quality and gaining hands-on experience t
 
 Latest Y
 
-Languages and Tools
+### Languages and Tools
+![Postman](https://img.shields.io/badge/-Postman-18191a?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/-swagger-18191a?style=for-the-badge&logo=swagger)
+![SQL](https://img.shields.io/badge/-SQL-18191a?style=for-the-badge&logo=)
+![Figma](https://img.shields.io/badge/-figma-18191a?style=for-the-badge&logo=figma)
 
 Follow Me
