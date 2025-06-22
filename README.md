@@ -7,26 +7,20 @@ I'm passionate about improving product quality and gaining hands-on experience t
 ### Portfolio
 
 ### Tools
-#### TMS and Bub tracking tools
+#### TMS and Bug tracking tools
 ![Jira](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Jira.png)
-![YandexTracker](https://img.shields.io/badge/-Yandex_Tracker-333333?style=for-the-badge&logo=YandexTracker)
-![TestIT](https://img.shields.io/badge/-Test_IT-333333?style=for-the-badge&logo=Test_IT)
+![YouTrack](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/YouTrack.png)
+![Yandex Tracker](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/YT.png)
+![TestIT](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Test%20IT.png)
 ![Redmine](https://img.shields.io/badge/-Redmine-333333?style=for-the-badge&logo=redmine)
 
-<div>
-  <img src="https://github.com/shkutkova/shkutkova/blob/main/assets/Ekaterina%20Shkutkova.png" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+#### Instruments 
 
 
-![Postman](https://img.shields.io/badge/-Postman-18191a?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/-swagger-18191a?style=for-the-badge&logo=swagger)
+![Postman](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Postman.png)
+![Swagger](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Swagger.png)
 ![SQL](https://img.shields.io/badge/-SQL-18191a?style=for-the-badge&logo=)
-![Figma](https://img.shields.io/badge/-figma-18191a?style=for-the-badge&logo=figma)
+![Figma](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Figma.png)
 
 ### Contact
 [![VK](https://img.shields.io/badge/-vk-18191a?style=for-the-badge&logo=vk&logoColor=8ab4f8)](https://vk.com/k.shkutkova)
