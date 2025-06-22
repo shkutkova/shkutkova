@@ -8,7 +8,7 @@ I'm passionate about improving product quality and gaining hands-on experience t
 
 ### Tools
 #### TMS and Bub tracking tools
-![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira&logoColor=8ab4f8)
+![Jira](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Jira.png)
 ![YandexTracker](https://img.shields.io/badge/-Yandex_Tracker-333333?style=for-the-badge&logo=YandexTracker)
 ![TestIT](https://img.shields.io/badge/-Test_IT-333333?style=for-the-badge&logo=Test_IT)
 ![Redmine](https://img.shields.io/badge/-Redmine-333333?style=for-the-badge&logo=redmine)
