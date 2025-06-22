@@ -18,7 +18,7 @@ I'm passionate about improving product quality and gaining hands-on experience t
 
 | Тестовая документация | Тестирование веб-приложений |
 |-----------------------|-----------------------------|
-|ntrcn                  |ntrcn                        |
+ntrcn  hjvfjygolkjl                ntrcn                        
 
 
 
