@@ -12,15 +12,21 @@ I'm passionate about improving product quality and gaining hands-on experience t
 ![YouTrack](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/YouTrack.png)
 ![Yandex Tracker](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/YT.png)
 ![TestIT](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Test%20IT.png)
-![Redmine](https://img.shields.io/badge/-Redmine-333333?style=for-the-badge&logo=redmine)
+![Redmine](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Redmine.png)
 
-#### Instruments 
-
+#### Testing WEB
 
 ![Postman](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Postman.png)
 ![Swagger](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Swagger.png)
-![SQL](https://img.shields.io/badge/-SQL-18191a?style=for-the-badge&logo=)
-![Figma](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Figma.png)
+![Devtools](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/DT.png)
+
+![SQL](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/sql.png)
+
+<div>
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/GIT.png" title="jira" alt="jira" width="80" height="40"/>&nbsp
+</div>
+
+![Figma](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/GIT.png)
 
 ### Contact
 [![VK](https://img.shields.io/badge/-vk-18191a?style=for-the-badge&logo=vk&logoColor=8ab4f8)](https://vk.com/k.shkutkova)
