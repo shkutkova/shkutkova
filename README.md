@@ -16,11 +16,9 @@ I'm passionate about improving product quality and gaining hands-on experience t
 [![VK](https://img.shields.io/badge/-vk-18191a?style=for-the-badge&logo=vk&logoColor=8ab4f8)](https://vk.com/k.shkutkova)
 
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkutkova&count_private=true&show_icons=true)](https://github.com/shkutkova/github-readme-stats)
-Руководство по оформлению Markdown файлов
-https://gist.github.com/Jekins/2bf2d0638163f1294637
--->
+| Тестовая документация | Тестирование веб-приложений |
+|-----------------------|-----------------------------|
+|ntrcn                  |ntrcn                        |
 
 
 
