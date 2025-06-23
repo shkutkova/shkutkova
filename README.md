@@ -8,25 +8,50 @@ I'm passionate about improving product quality and gaining hands-on experience t
 
 ### Tools
 #### TMS and Bug tracking tools
-![Jira](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Jira.png)
-![YouTrack](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/YouTrack.png)
-![Yandex Tracker](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/YT.png)
-![TestIT](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Test%20IT.png)
+
+<div>
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/confluence.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/youtrack.svg" title="YouTrack" alt="YouTrack" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/yt.webp" title="Yandex_Tracker" alt="Yandex_Tracker" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/testit.png" title="TestIT" alt="TestIT" width="40" height="40"/>&nbsp
+
+</div>
+
+
 ![Redmine](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Redmine.png)
 
 #### Testing WEB
 
-![Postman](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Postman.png)
-![Swagger](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Swagger.png)
-![Devtools](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/DT.png)
-
-![SQL](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/sql.png)
-
 <div>
-  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/GIT.png" title="jira" alt="jira" width="80" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/swagger.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/yt.webp" title="Yandex_Tracker" alt="Yandex_Tracker" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/testit.png" title="TestIT" alt="TestIT" width="40" height="40"/>&nbsp
+
 </div>
 
-![Figma](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/GIT.png)
+![Devtools](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/DT.png)
+
+#### Database
+
+<div>
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/sql-database-generic.svg" title="SQL" alt="SQL" width="30" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/dbeaver.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+
+</div>
+
+#### other
+
+<div>
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/figma.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/visual-studio-code.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/552c824fc92b48c4ff71f6570d30341e8eb16946/assets/file-type-git.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/74fe5e3cd955f05a9b947f4fbbe651f6582bd0a9/assets/apps-charles.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+
+</div>
+
+
+
 
 ### Contact
 [![VK](https://img.shields.io/badge/-vk-18191a?style=for-the-badge&logo=vk&logoColor=8ab4f8)](https://vk.com/k.shkutkova)
