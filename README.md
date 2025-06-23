@@ -1,4 +1,4 @@
-![Header](https://github.com/shkutkova/shkutkova/blob/main/assets/Ekaterina%20Shkutkova.png)
+![Header](https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/Ekaterina%20Shkutkova.png)
 
 ## 💻 Aspiring QA Engineer
 I'm a beginner QA specialist diving into software testing and quality assurance.
