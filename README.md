@@ -45,11 +45,13 @@ Loading...
 
 
 ### Contact
-[![VK](https://img.shields.io/badge/-vk-18191a?style=for-the-badge&logo=vk&logoColor=8ab4f8)](https://vk.com/k.shkutkova)
 
   <div id="badges">
-    <a href="https://https://www.linkedin.com/in/katerina-shkutkova-398862283/" target="_blank">
+  <a href="https://vk.com/k.shkutkova" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://https://www.linkedin.com/in/katerina-shkutkova-398862283/" target="_blank">
+      <img src="https://raw.githubusercontent.com/shkutkova/shkutkova/refs/heads/main/assets/vk.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/wazowski_394" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
